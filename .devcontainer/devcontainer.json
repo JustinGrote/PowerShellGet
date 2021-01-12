@@ -1,0 +1,14 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "ms-dotnettools.csharp",
+        "justin-grote.powershell-extension-pack",
+        "dennismaxjung.vscode-dotnet-auto-attach",
+        "fudge.auto-using"
+    ],
+    "codespaces": {
+        "shouldEnableTmpMount": true
+    }
+}
